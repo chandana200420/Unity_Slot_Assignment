@@ -37,4 +37,4 @@ The WebGL build is available in the `Builds/WebGL` folder, if included in this r
 - `Assets/Sounds` — Audio assets
 
 ## Author
-Your Name
+Chandana.R
